@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Graduate in Information Technology**<br>📊 Data Analyst passionate about transforming raw data into actionable insights that drive informed business decisions.<br>💻 Skilled in SQL, Advanced Excel, Python, Power BI, Machine Learning, and Data Visualization.<br>📈 Currently working on extracting data from multiple platforms and delivering weekly and monthly reports through interactive dashboards.<br>🔍 Committed to continuous learning, exploring emerging technologies, and expanding expertise in the field of data and analytics.<br>🚀 Driven by curiosity, problem-solving, and the desire to create meaningful impact through data.<br>
+🎓 B.Tech Graduate in Information Technology<br>📊 Data Analyst passionate about transforming raw data into actionable insights that drive informed business decisions.<br>💻 Skilled in SQL, Advanced Excel, Python, Power BI, Machine Learning, and Data Visualization.<br>📈 Currently working on extracting data from multiple platforms and delivering weekly and monthly reports through interactive dashboards.<br>🔍 Committed to continuous learning, exploring emerging technologies, and expanding expertise in the field of data and analytics.<br>🚀 Driven by curiosity, problem-solving, and the desire to create meaningful impact through data.<br>
 
 
 ## 🌐 Socials:
