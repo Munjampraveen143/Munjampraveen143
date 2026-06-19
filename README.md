@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/munjam-praveen-kumar-5a9023355) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Praveenkumarm472@gmail.com)
 
 # 💻 Tech Stack:
